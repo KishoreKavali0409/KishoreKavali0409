@@ -1,4 +1,4 @@
-# Hi, I'm Kishore Kavali 👋
+# Hi, I'm Kishore
 
 **Machine Learning & Data Science Enthusiast | Python Developer**
 
@@ -7,7 +7,7 @@ Currently exploring **back-end development**, **Generative AI**, **Docker**, and
 
 ---
 
-### 🛠️ Technologies & Skills
+###  Technologies & Skills
 
 #### Programming Languages
 - Python
