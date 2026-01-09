@@ -61,16 +61,6 @@
 
 <br>
 
-### 📫 Connect with Me
-
-<div align="center">
-
-[![Twitter/X](https://img.shields.io/badge/Twitter-%40DHubFans-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/DHubFans)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile) <!-- Replace with your LinkedIn URL -->
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com) <!-- Replace with your email -->
-
-</div>
-
 <br>
 
 <div align="center">
