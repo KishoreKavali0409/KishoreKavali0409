@@ -1,17 +1,14 @@
 # 👋 Hi there! I'm Kishore Kavali
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hello+World!;I'm+Kishore+Kavali;Machine+Learning+%26+Data+Science+Enthusiast;Python+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi + Guys!;I'm+Kishore+Kavali;Machine+Learning+%26+Data+Science+Enthusiast;Python+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 ### 🌟 About Me
-- 🧑‍💻 Passionate about **Machine Learning**, **Computer Vision**, and **Data Science**
-- 📍 From **Karnataka, India**
-- 🌱 Currently exploring advanced ML models, computer vision projects, and data analysis
-- ⚡ Fun fact: I love building real-world projects from scratch!
-
+- Passionate about **Machine Learning**, **Computer Vision**, and **Data Science**
+- From **Karnataka, India**
+- Currently exploring advanced ML models, computer vision projects, and data analysis
+- **Fun fact**: I love building real-world projects from scratch!
 <br>
-
 ### 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KishoreKavali0409&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kishore's GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishoreKavali0409&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
