@@ -1,6 +1,6 @@
 # Hi, I'm Kishore
 
-**Machine Learning & Data Science Enthusiast | Python Developer**
+**Machine Learning & Data Science Student | Python Developer**
 
 Gained Knowledge in **Machine Learning**, **Artifical Intelligence**, **Data Analysis**, and **Generative AI**.  
 Currently exploring **back-end development**, **Generative AI**, **Docker**, and **Kubernetes** to build scalable applications.
